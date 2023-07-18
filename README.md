@@ -2,7 +2,7 @@
 
 Esto es una prueba técnica de una empresa europea para un sueldo de 55000 €/anuales propuesta por @midudev en su directo de Twitch.
 
-El objetivo de esta prueba técnica es crear una aplicación similar a la que se proporciona en este enlace: https://prueba-tecnica-empresa-55k.vercel.app/. Para lograr esto, debe usar la API proporcionada por https://randomuser.me/.
+El objetivo de esta prueba técnica es crear una aplicación similar a la que se proporciona en este enlace: [https://prueba-tecnica-empresa-55k.vercel.app/](https://midu-react-11.surge.sh/). Para lograr esto, debe usar la API proporcionada por https://randomuser.me/.
 
 Los pasos a seguir:
 
