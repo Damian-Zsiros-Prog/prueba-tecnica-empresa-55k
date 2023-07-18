@@ -55,7 +55,6 @@ export default function RandomUserList({
               user={user}
               key={user.email}
               handleDelete={handleDelete}
-              index={index}
             />
           )
         })}
